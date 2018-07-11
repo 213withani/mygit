@@ -1,4 +1,4 @@
-```git
+```js
 git status
 git pull
 git add .
