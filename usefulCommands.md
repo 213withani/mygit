@@ -1,3 +1,4 @@
+# everday git
 ```js
 git status
 git pull
@@ -7,7 +8,7 @@ git merge master // run in your branch to merge what's on master to your local
 
 ```
 
-
+# git stash
 https://stackoverflow.com/questions/19003009/how-to-recover-stashed-uncommitted-changes
 
 ```js
