@@ -1,11 +1,17 @@
 # everday git
 ```js
-git status
 git pull
+git status
 git add .
 git commit -m"Message to describe your commit."
-git merge master // run in your branch to merge what's on master to your local
+git branch
+git checkout master
+git checkout my-branch
+// run in your branch to merge what's on master to your local
+git merge master 
 
+// I used it to disregard my changes if I want to switch btwn branch and master.
+git checkout -- . 
 ```
 
 # git stash
