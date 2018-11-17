@@ -13,6 +13,7 @@ git merge master
 // I used it to disregard my changes if I want to switch btwn branch and master.
 git checkout -- . 
 ```
+https://gist.github.com/arttuladhar/5887559
 
 # git stash
 https://stackoverflow.com/questions/19003009/how-to-recover-stashed-uncommitted-changes
