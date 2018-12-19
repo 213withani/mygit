@@ -1,3 +1,7 @@
+# Remove a folder that is not empty
+## Be Careful when using command
+rm -fr folderName
+
 # everday git
 ```js
 git pull
