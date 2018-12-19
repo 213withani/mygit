@@ -1,9 +1,25 @@
+# Checkout branch from remote origin aka from github
+~/Documents/dev/silver (master ✔) ᐅ git checkout origin/FEATURE-B
+Note: checking out 'origin/FEATURE-B'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at 28303a1 NAV-848 Added dropdown UI and cleaned view as user search box container..
+~/Documents/dev/folder (28303a1 ✔) ᐅ git checkout -b FEATURE-B
+
 # How to get a repo and start working
 ```git clone repoName
 cd into folder
 npm i
 npm start
-that's it```
+```
 
 # Remove a folder that is not empty
 ## Be Careful when using command
