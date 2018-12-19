@@ -1,6 +1,6 @@
 # Remove a folder that is not empty
 ## Be Careful when using command
-rm -fr folderName
+```rm -fr folderName```
 
 # everday git
 ```js
