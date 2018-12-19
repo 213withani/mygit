@@ -1,3 +1,10 @@
+# How to get a repo and start working
+```git clone repoName
+cd into folder
+npm i
+npm start
+that's it```
+
 # Remove a folder that is not empty
 ## Be Careful when using command
 ```rm -fr folderName```
