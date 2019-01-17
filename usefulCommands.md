@@ -1,3 +1,22 @@
+# Cherry picks
+```
+   git pull
+   git fetch
+   git checkout V1.76.0
+   git pull
+   git fetch
+   git cherry-pick -n 7049ec9
+   git cherry-pick -n 4152fe8
+   git cherry-pick -n 96cbb94
+   git cherry-pick -n ede3503
+   git cherry-pick -n b399cf2
+   git status
+   git checkout -b NAV-950-RB
+   git status
+   git commit -m"NAV-950 Cherry pick team spend amount fix."
+   git push origin NAV-950-RB
+```
+
 # Checkout branch from remote origin aka from github
 ~/Documents/dev/silver (master ✔) ᐅ git checkout origin/FEATURE-B
 Note: checking out 'origin/FEATURE-B'.
