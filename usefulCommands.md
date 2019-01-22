@@ -7,9 +7,6 @@
    git fetch
    git cherry-pick -n 7049ec9
    git cherry-pick -n 4152fe8
-   git cherry-pick -n 96cbb94
-   git cherry-pick -n ede3503
-   git cherry-pick -n b399cf2
    git status
    git checkout -b NAV-950-RB
    git status
