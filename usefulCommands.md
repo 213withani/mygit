@@ -77,3 +77,6 @@ git reset --soft HEAD^
 
 ```
 https://stackoverflow.com/questions/2941517/how-to-fix-committing-to-the-wrong-git-branch
+
+# Reset your master branch
+```git reset --hard origin/master```
